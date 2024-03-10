@@ -1,3 +1,3 @@
 # AI-Investor-Relations
 
-Using GPT API to analyse investor relations pdf
+Using GPT API to get investor relations data
