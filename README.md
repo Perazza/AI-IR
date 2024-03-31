@@ -1,4 +1,2 @@
-# AI-Investor-Relations
-
-Using GPT API to get investor relations data as a scraper script
+Using LLM models API to get investor relations data as a scraper script
 
